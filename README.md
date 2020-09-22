@@ -1,4 +1,4 @@
-# python-projects
+# Python Projects
 One stop repository for all the python based projects I have been working on
 
 ## Flask Projects
